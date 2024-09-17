@@ -1,1 +1,1 @@
-## Experiment name
+## Frequency Response of CS Amplifier
