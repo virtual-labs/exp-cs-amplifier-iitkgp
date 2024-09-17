@@ -79,4 +79,3 @@ $$wH= \frac{1}{\sqrt(\frac{1}{w_{H1}})^2+(\frac{1}{w_{H2}})^2} $$
 
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"></script>
