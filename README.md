@@ -8,6 +8,9 @@
 
 ### About the Experiment 
 
+1. To obtain the frequency response of the common source FET Amplifier
+2. To find the Bandwidth.
+
 ### Project Principal Investigator
 <b>Name | <b> **Prof. C.S.Kumar**
 :--|:--|
