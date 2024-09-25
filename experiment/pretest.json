@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "A common source amplifier has.",
+      "question": "1. A common source amplifier has.",
       "answers": {
         "a": "Low Input Impedance",
         "b": "No Gate resistance",
@@ -14,7 +14,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "An amplifier is designed using fixed bias configuration, what is its output impedance?",
+      "question": "2. An amplifier is designed using fixed bias configuration, what is its output impedance?",
       "answers": {
         "a": "RD + rd",
         "b": "RD || rd",
@@ -26,7 +26,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following is true about the common source amplifier?",
+      "question": "3. Which of the following is true about the common source amplifier?",
       "answers": {
         "a": " It has low input impedance",
         "b": "Phase reversal voltage output",
@@ -38,7 +38,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What are the small signal FET parameter?",
+      "question": "4. What are the small signal FET parameter?",
       "answers": {
         "a": "gm and rds",
         "b": "gm and vgs",
@@ -50,7 +50,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Given for an FET, gm = - 9 .5 m A /volt, total capacitance = 500 pF. For a voltage gain of -30, the bandwidth will be",
+      "question": "5. Given for an FET, gm = - 9 .5 m A /volt, total capacitance = 500 pF. For a voltage gain of -30, the bandwidth will be",
       "answers": {
         "a": "630",
         "b": "3",

@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which of the following statement is true about FET common source amplifier compared to BJT amplifier?",
+      "question": "1. Which of the following statement is true about FET common source amplifier compared to BJT amplifier?",
       "answers": {
         "a": "it has high input impedance",
         "b": "it has low input impedance",
@@ -14,7 +14,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "An amplifier is designed using fixed bias configuration, what is its input impedance?",
+      "question": "2. An amplifier is designed using fixed bias configuration, what is its input impedance?",
       "answers": {
         "a": "RD||rd",
         "b": "RD+rd",
@@ -26,7 +26,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the reason for connecting a capacitor in parallel with Rs",
+      "question": "3. What is the reason for connecting a capacitor in parallel with Rs",
       "answers": {
         "a": "It blocks the noise",
         "b": "For ac signal it acts a short circuit resulting in grounding source terminal",
@@ -38,7 +38,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The output voltage at fcl = 12 mV. What is the output voltage at the midpoint frequency?",
+      "question": "4. The output voltage at fcl = 12 mV. What is the output voltage at the midpoint frequency?",
       "answers": {
         "a": "12 mV",
         "b": "8.48 mV",
@@ -50,7 +50,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "A sinusoidal signal has 1.5v at t=2S, if this signal is given to common source amplifier with Av=5 v what will be its output at t=2S?",
+      "question": "5. A sinusoidal signal has 1.5v at t=2S, if this signal is given to common source amplifier with Av=5 v what will be its output at t=2S?",
       "answers": {
         "a": "7.5",
         "b": "-7.5",
