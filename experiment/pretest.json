@@ -2,36 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. A common source amplifier has.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Low Input Impedance",
+        "b": "No Gate resistance",
+        "c": "No Drain resistance",
+        "d": "No source resistance"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. An amplifier is designed using fixed bias configuration, what is its output impedance?",
+      "answers": {
+        "a": "RD + rd",
+        "b": "RD || rd",
+        "c": "RG",
+        "d": "0"
       },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which of the following is true about the common source amplifier?",
+      "answers": {
+        "a": " It has low input impedance",
+        "b": "Phase reversal voltage output",
+        "c": "Infinite gain",
+        "d": "It has high output impedance"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. What are the small signal FET parameter?",
+      "answers": {
+        "a": "gm and rds",
+        "b": "gm and vgs",
+        "c": "vds and rds",
+        "d": "gm"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "5. Given for an FET, gm = - 9 .5 m A /volt, total capacitance = 500 pF. For a voltage gain of -30, the bandwidth will be",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "630",
+        "b": "3",
+        "c": "100",
+        "d": "19"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
