@@ -1,10 +1,10 @@
 ## Introduction
 
 
-<b>Discipline | <b>Electronics and Communication and Engineering
+<b>Discipline | <b>Electronics and Communication Engineering
 :--|:--|
 <b> Lab | <b>  Analog Electronics Circuits Virtual Laboratory
-<b> Experiment|     <b> Frequency Response of CS Amplifier
+<b> Experiment Name|     <b> Frequency Response of CS Amplifier
 
 ### About the Experiment 
 
