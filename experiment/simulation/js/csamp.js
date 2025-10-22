@@ -329,7 +329,16 @@ function cleard() {
     document.getElementById("chartContainer").innerHTML = "";
 }
 
+
 //Midband Gain is -40.816
 //Low frequency cut-off is 2.182e+002
 //High frequency cut-off is 1.168e+008
 //Bandwidth is 1.168e+008 Hz
+
+function printf() {
+    document.getElementById("demo").innerHTML = "";
+    document.getElementById("demos").innerHTML = "";
+
+    window.print();
+}
+
