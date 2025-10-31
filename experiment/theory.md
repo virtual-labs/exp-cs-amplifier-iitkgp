@@ -18,7 +18,7 @@ The bias levels in amplifiers based on BJTs are often stabilized using the emitt
 A common-source JFET amplifier in which a resistor R<sub>S</sub> has been added between the source and ground. In this circuit the gate has been connected to ground through the resistor R<sub>G</sub>; thus, the gate is held at ground potential (0 V). If the drain current I<sub>D</sub> begins to rise above its intended quiescent value, the voltage drop across R<sub>S</sub> will increase. Since the gate-source voltage V<sub>GS</sub> is the difference between the gate potential (fixed at 0 V) and the voltage across R<sub>S</sub>, a rise in the voltage across R<sub>S</sub> will cause V<sub>GS</sub> to drop, lowering I<sub>D</sub> back to its original value. The opposite chain of events occurs if I<sub>D</sub> begins to drop below its design value. It is a common practice in the design of circuits based on JFETs to tie the gate to ground potential via a large-valued resistor (typically around 1MΩ). The circuit for the common source amplifier is shown in figure 1.
 
 <div align="center">
-<img src="images/csamp_thry.png" width="50%">
+<img src="images/csamp_thry.png" style= "max-width=100%; height=auto">
 <p>Figure 1</p>
 </div>
 
@@ -26,7 +26,7 @@ A common-source JFET amplifier in which a resistor R<sub>S</sub> has been added 
 The external capacitors C<sub>C1</sub> C<sub>C2</sub>, and C<sub>S</sub> will influence the low frequency response. The internal capacitances of the FET will affect the high frequency response of the amplifier. The midband gain, Am, is obtained from the midband equivalent circuit of the common-source amplifier. This is shown in Figure 2. The equivalent circuit is obtained by short-circuiting all the external capacitors and opencircuiting all the internal capacitances of the FET.
 
 <div align="center">
-<img src="images/csamp_thry1.png" width="50%">
+<img src="images/csamp_thry1.png" style= "max-width=100%; height=auto">
 <p>Figure 12</p>
 </div>
 
